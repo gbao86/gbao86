@@ -1,49 +1,57 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║    ██████╗ ██████╗  █████╗  ██████╗  █████╗              ║
-║   ██╔════╝ ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗             ║
-║   ██║  ███╗██████╔╝███████║██║   ██║╚█████╔╝             ║
-║   ██║   ██║██╔══██╗██╔══██║██║   ██║██╔══██╗             ║
-║   ╚██████╔╝██████╔╝██║  ██║╚██████╔╝╚█████╔╝             ║
-║    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚════╝              ║
-║                                                           ║
-║          TRỊNH GIA BẢO  ·  Full-Stack Dev                 ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FFF,100:FF006E&height=200&section=header&text=TRỊNH%20GIA%20BẢO&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Flutter%20%7C%20AI&descAlignY=58&descSize=18&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;📱+Flutter+%7C+Mobile+First;🤖+AI+%2B+Code+%3D+Magic;🌿+Environmental+Informatics+@+HCMUNRE;⚡+Biến+ý+tưởng+thành+mã+nguồn)](https://git.io/typing-svg)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer+Intern;📱+Flutter+%2B+AI+Integration+Expert;🤖+Turning+Data+into+Action;🌿+Environmental+Informatics+%40+HCMUNRE;⚡+Code.+Build.+Deploy.+Repeat.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=gbao86&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" />
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://facebook.com/BaOU.me"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/tgb_102"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://tiktok.com/@banhtetchammuoi"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a>
+<a href="https://youtube.com/@gbao86"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a href="mailto:tiktokthu10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gbao86&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/gbao86?style=for-the-badge&color=7B2FFF&labelColor=1a1a2e&label=FOLLOWERS" />
 
 </div>
 
 ---
 
-## 👾 `whoami`
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> `whoami`
 
 ```bash
-$ cat about.json
+$ cat gbao86.json
 ```
 
 ```json
 {
-  "name": "Trịnh Gia Bảo",
-  "alias": "gbao86",
-  "role": "Full-Stack Developer Intern",
-  "university": "HCMUNRE — Tin học Môi trường (2021 → Now)",
-  "location": "📍 Ho Chi Minh City, Vietnam",
-  "focus": ["Flutter", "AI Integration", "Web Full-Stack"],
-  "status": "🟢 Open to collaborate",
-  "motto": "Biến ý tưởng thành mã nguồn, biến dữ liệu thành hành động."
+  "name"       : "Trịnh Gia Bảo",
+  "alias"      : "gbao86",
+  "role"       : "Full-Stack Developer Intern 🚀",
+  "university" : "HCMUNRE — Tin học Môi trường (2021 → Now)",
+  "location"   : "📍 Ho Chi Minh City, Vietnam 🇻🇳",
+  "focus"      : ["Flutter 📱", "AI Integration 🤖", "Web Full-Stack 🌐"],
+  "currently"  : "Building cool things with Flutter + AI ⚡",
+  "looking_for": "Collaborate on open source & side projects 🤝",
+  "fun_fact"   : "I turn ☕ coffee into 💻 code",
+  "status"     : "🟢 Available"
 }
 ```
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## ⚡ Tech Arsenal
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Arsenal
 
 <div align="center">
 
@@ -53,6 +61,7 @@ $ cat about.json
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧠 AI & Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -60,6 +69,7 @@ $ cat about.json
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🗄️ Database & Cloud
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
@@ -74,25 +84,99 @@ $ cat about.json
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Intelligence
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Skill Level
+
+```text
+Flutter / Dart      ████████████████████░░   85% 🔥
+Python / AI/ML      ██████████████████░░░░   75% 🤖
+Next.js / Web       ███████████████░░░░░░░   65% 🌐
+FastAPI / Backend   ████████████████░░░░░░   70% ⚡
+Docker / DevOps     █████████████░░░░░░░░░   55% 🐳
+UI/UX Design        ████████████████░░░░░░   68% 🎨
+```
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=gbao86&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gbao86&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=gbao86&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gbao86&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=gbao86&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=gbao86&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FFF&fire=FF006E&currStreakLabel=00D9FF" />
 
 </div>
 
 ---
 
-## 🏆 Trophy Case
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<details>
+<summary>⚙️ Setup snake animation (click để mở)</summary>
+
+Tạo file `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: gbao86
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gbao86&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FF006E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 Trophy Cabinet
 
 <div align="center">
 
@@ -102,37 +186,21 @@ $ cat about.json
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎓 Credentials
-
-```
-╭──────────────────────────────────────────────────────────╮
-│  🏫  HCMUNRE  ·  CNTT — Tin học Môi trường  ·  2021→Now  │
-├──────────────────────────────────────────────────────────┤
-│  🏅  HackerRank Certified                                 │
-│      ✦ SQL (Advanced)          ✦ Problem Solving (Inter.) │
-│      ✦ Python (Basic)          ✦ Java (Basic)             │
-├──────────────────────────────────────────────────────────┤
-│  🌐  TOEIC 545  ·  Technical English Proficiency          │
-╰──────────────────────────────────────────────────────────╯
-```
-
----
-
-## 🌐 Find Me Online
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/BaOU.me)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/tgb_102)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@banhtetchammuoi)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@gbao86)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiktokthu10@gmail.com)
+| 🏫 Education | 🏅 HackerRank | 🌐 Language |
+|:---:|:---:|:---:|
+| HCMUNRE<br/>Tin học Môi trường<br/>**2021 → Now** | ✅ SQL Advanced<br/>✅ Problem Solving Inter.<br/>✅ Python · Java Basic | 🇬🇧 **TOEIC 545**<br/>Technical English |
 
 </div>
 
 ---
 
-## 💬 Dev Quote of the Day
+## ✍️ Random Dev Quote
 
 <div align="center">
 
@@ -144,10 +212,14 @@ $ cat about.json
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="60" />
+
 ```
 ⚡  "Biến ý tưởng thành mã nguồn, biến dữ liệu thành hành động."  ⚡
 ```
 
-*Made with 💙 by gbao86 · Ho Chi Minh City, Vietnam*
+*Made with 💙 & ☕ · Ho Chi Minh City 🇻🇳*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7B2FFF,100:00D9FF&height=120&section=footer&animation=twinkling" />

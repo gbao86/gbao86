@@ -14,7 +14,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer+Intern;📱+Flutter+%7C+Mobile+First;🤖+AI+%2B+Code+%3D+Magic;🌿+Environmental+Informatics+@+HCMUNRE;⚡+Biến+ý+tưởng+thành+mã+nguồn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;📱+Flutter+%7C+Mobile+First;🤖+AI+%2B+Code+%3D+Magic;🌿+Environmental+Informatics+@+HCMUNRE;⚡+Biến+ý+tưởng+thành+mã+nguồn)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=gbao86&color=00D9FF&style=flat-square&label=PROFILE+VIEWS" />
 

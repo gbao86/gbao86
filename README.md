@@ -249,7 +249,7 @@ jobs:
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"/><br/>
 <b>🏫 Education</b><br/><br/>
 HCMUNRE<br/>
-Tin học Môi trường<br/>
+Công Nghệ Thông Tin<br/>
 <code>2021 → Now</code>
 </td>
 <td align="center">

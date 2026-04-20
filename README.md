@@ -46,7 +46,7 @@ const gbao86 = {
   name     : "Trịnh Gia Bảo",
   alias    : "gbao86",
   role     : "Full-Stack Dev Intern 🚀",
-  uni      : "HCMUNRE — Tin học Môi trường",
+  uni      : "HCMUNRE — IT",
   year     : "2021 → Present",
   location : "Ho Chi Minh City 🇻🇳",
   stack    : ["Flutter", "Next.js", "FastAPI", "TF"],

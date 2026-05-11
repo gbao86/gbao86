@@ -240,9 +240,7 @@ jobs:
 <!-- ==================== CREDENTIALS ==================== -->
 
 ## 🎓 Credentials & Certs
-
 <div align="center">
-
 <table>
 <tr>
 <td align="center">
@@ -255,9 +253,11 @@ Công Nghệ Thông Tin<br/>
 <td align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"/><br/>
 <b>🏅 HackerRank</b><br/><br/>
-✅ SQL <b>Advanced</b><br/>
-✅ Problem Solving <b>Inter.</b><br/>
-✅ Python · Java <b>Basic</b>
+✅ SQL <a href="https://www.hackerrank.com/certificates/fc81610f3e8c"><b>Advanced</b></a><br/>
+✅ Problem Solving <a href="https://www.hackerrank.com/certificates/e3cb19c182cc"><b>Inter.</b></a><br/>
+✅ <a href="https://www.hackerrank.com/certificates/8cfb9fe0851b">Python</a> · <a href="https://www.hackerrank.com/certificates/6b16570db7c7">Java</a> <b>Basic</b><br/>
+✅ Rest API <a href="https://www.hackerrank.com/certificates/77271beebf89"><b>Inter.</b></a><br/>
+✅ <a href="https://www.hackerrank.com/certificates/5577a588e1e9">Software Engineer <b>Intern</b></a>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"/><br/>
@@ -268,7 +268,6 @@ Technical Proficiency
 </td>
 </tr>
 </table>
-
 </div>
 
 <!-- ==================== MEME ==================== -->

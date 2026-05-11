@@ -257,7 +257,8 @@ Công Nghệ Thông Tin<br/>
 ✅ Problem Solving <a href="https://www.hackerrank.com/certificates/e3cb19c182cc"><b>Inter.</b></a><br/>
 ✅ <a href="https://www.hackerrank.com/certificates/8cfb9fe0851b">Python</a> · <a href="https://www.hackerrank.com/certificates/6b16570db7c7">Java</a> <b>Basic</b><br/>
 ✅ Rest API <a href="https://www.hackerrank.com/certificates/77271beebf89"><b>Inter.</b></a><br/>
-✅ <a href="https://www.hackerrank.com/certificates/5577a588e1e9">Software Engineer <b>Intern</b></a>
+✅ <a href="https://www.hackerrank.com/certificates/5577a588e1e9">Software Engineer <b>Intern</b></a><br/>
+✅ <a href="https://www.hackerrank.com/certificates/1ce9bf99058f">Frontend Developer <b>React</b></a>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"/><br/>

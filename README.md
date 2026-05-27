@@ -23,7 +23,7 @@
 
 <!-- SOCIAL -->
 <a href="https://facebook.com/BaOU.me"><img height="32" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>&nbsp;
-<a href="https://instagram.com/tgb_102"><img height="32" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;
+<a href="https://instagram.com/amias_40"><img height="32" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;
 <a href="https://tiktok.com/@banhtetchammuoi"><img height="32" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a>&nbsp;
 <a href="https://youtube.com/@gbao86"><img height="32" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>&nbsp;
 <a href="mailto:tiktokthu10@gmail.com"><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

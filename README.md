@@ -223,7 +223,7 @@ Công Nghệ Thông Tin<br/>
 <b>🏅 HackerRank</b><br/><br/>
 ✅ SQL <a href="https://www.hackerrank.com/certificates/fc81610f3e8c"><b>Advanced</b></a><br/>
 ✅ Problem Solving <a href="https://www.hackerrank.com/certificates/e3cb19c182cc"><b>Inter.</b></a><br/>
-✅ <a href="https://www.hackerrank.com/certificates/8cfb9fe0851b">Python</a> · <a href="https://www.hackerrank.com/certificates/6b16570db7c7">Java</a> <b>Basic</b><br/>
+✅ <a href="https://www.hackerrank.com/certificates/8cfb9fe0851b">Python</a> · <a href="https://www.hackerrank.com/certificates/6b16570db7c7">Java</a> <b>.</b><br/>
 ✅ Rest API <a href="https://www.hackerrank.com/certificates/77271beebf89"><b>Inter.</b></a><br/>
 ✅ <a href="https://www.hackerrank.com/certificates/8b9ab6c75518">Software Engineer <b></b></a><br/>
 ✅ <a href="https://www.hackerrank.com/certificates/1ce9bf99058f">Frontend Developer <b>React</b></a>

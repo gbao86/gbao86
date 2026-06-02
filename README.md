@@ -144,6 +144,7 @@ const gbao86 = {
 ![Supabase](https://img.shields.io/badge/Supabase-learning-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-learning-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-learning-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-learning-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 </div>
 

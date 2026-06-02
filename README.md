@@ -209,10 +209,10 @@ const gbao86 = {
 
 <div align="center">
 
-<a href="https://github.com/gbao86/TÊN_REPO_1">
+<a href="https://github.com/gbao86/AI_Garbage_Classification_Application">
   <img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=AI_Garbage_Classification_Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
 </a>
-<a href="https://github.com/gbao86/TÊN_REPO_2">
+<a href="https://github.com/gbao86/chims">
   <img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=chims&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
 </a>
 

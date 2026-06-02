@@ -192,7 +192,6 @@ const gbao86 = {
 
 </div>
 
-
 <!-- ==================== TROPHIES ==================== -->
 
 ## 🏆 Hall of Fame
@@ -204,7 +203,7 @@ const gbao86 = {
 </div>
 
 <!-- ==================== DIVIDER ==================== -->
-<img src="https://ryo-ma.vercel.app/github-profile-trophy?username=gbao86&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ==================== CREDENTIALS ==================== -->
 
@@ -224,9 +223,9 @@ Công Nghệ Thông Tin<br/>
 <b>🏅 HackerRank</b><br/><br/>
 ✅ SQL <a href="https://www.hackerrank.com/certificates/fc81610f3e8c"><b>Advanced</b></a><br/>
 ✅ Problem Solving <a href="https://www.hackerrank.com/certificates/e3cb19c182cc"><b>Inter.</b></a><br/>
-✅ <a href="https://www.hackerrank.com/certificates/8cfb9fe0851b">Python</a> · <a href="https://www.hackerrank.com/certificates/6b16570db7c7">Java</a> <b>.</b><br/>
+✅ <a href="https://www.hackerrank.com/certificates/8cfb9fe0851b">Python</a> · <a href="https://www.hackerrank.com/certificates/6b16570db7c7">Java</a><br/>
 ✅ Rest API <a href="https://www.hackerrank.com/certificates/77271beebf89"><b>Inter.</b></a><br/>
-✅ <a href="https://www.hackerrank.com/certificates/8b9ab6c75518">Software Engineer <b></b></a><br/>
+✅ <a href="https://www.hackerrank.com/certificates/8b9ab6c75518">Software Engineer</a><br/>
 ✅ <a href="https://www.hackerrank.com/certificates/1ce9bf99058f">Frontend Developer <b>React</b></a>
 </td>
 <td align="center">

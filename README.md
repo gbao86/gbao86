@@ -8,7 +8,7 @@
 <!-- ==================== TYPING ==================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Hey%2C+I'm+Gia+Bảo+—+gbao86;📱+Flutter+Dev+who+loves+clean+UI;🤖+Making+AI+do+the+hard+work;🌿+Studying+%40+HCMUNRE+since+2021;☕+Coffee+→+Code+→+Ship+→+Repeat;⚡+Open+to+collab+%26+internship!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Hey%2C+I'm+Gia+Bảo+—+gbao86;📱+Flutter+Dev+who+loves+clean+UI;🤖+Making+AI+do+the+hard+work;🌿+Studying+%40+HCMUNRE+since+2021;☕+Coffee+→+Code+→+Ship+→+Repeat;⚡+Open+to+collab+%26+internship!;🌙+Debug+at+3AM%2C+ship+at+dawn;🔥+Turn+coffee+into+Flutter+widgets;🧠+AI+is+my+co-pilot%2C+not+my+boss)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Focus-Flutter%20%2B%20AI-FF006E?style=flat-square)
 ![](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square)
 ![](https://img.shields.io/badge/Location-HCM%20City%20🇻🇳-orange?style=flat-square)
+![](https://img.shields.io/badge/Timezone-UTC%2B7%20🕐-00D9FF?style=flat-square)
+![](https://img.shields.io/badge/Awake-9AM%20→%203AM-7B2FFF?style=flat-square)
 
 <br/><br/>
 
@@ -27,6 +29,11 @@
 <a href="https://tiktok.com/@banhtetchammuoi"><img height="32" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a>&nbsp;
 <a href="https://youtube.com/@gbao86"><img height="32" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>&nbsp;
 <a href="mailto:tiktokthu10@gmail.com"><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<!-- ==================== SPOTIFY ==================== -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ugted23ld37n576ic6hxjaopoq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=00D9FF&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ugted23ld37n576ic6hxjaopoq&redirect=true)
 
 </div>
 
@@ -193,13 +200,21 @@ const gbao86 = {
 
 </div>
 
-<!-- ==================== TROPHIES ==================== -->
+<!-- ==================== DIVIDER ==================== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Hall of Fame
+<!-- ==================== PROJECTS ==================== -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Featured Projects
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gbao86&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<a href="https://github.com/gbao86/TÊN_REPO_1">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=AI_Garbage_Classification_Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
+</a>
+<a href="https://github.com/gbao86/TÊN_REPO_2">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=chims&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
+</a>
 
 </div>
 

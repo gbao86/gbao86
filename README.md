@@ -199,12 +199,12 @@ const gbao86 = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gbao86&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=gbao86&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
 <!-- ==================== DIVIDER ==================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://ryo-ma.vercel.app/github-profile-trophy?username=gbao86&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 <!-- ==================== CREDENTIALS ==================== -->
 

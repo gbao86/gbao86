@@ -8,7 +8,7 @@
 <!-- ==================== TYPING ==================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Hey%2C+I'm+Gia+Bảo+—+gbao86;📱+Flutter+Dev+who+loves+clean+UI;🤖+Making+AI+do+the+hard+work;🌿+Studying+%40+HCMUNRE+since+2021;☕+Coffee+→+Code+→+Ship+→+Repeat;⚡+Open+to+collab+%26+internship!;🌙+Debug+at+3AM%2C+ship+at+dawn;🔥+Turn+coffee+into+Flutter+widgets;🧠+AI+is+my+co-pilot%2C+not+my+boss)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Hey%2C+I'm+Gia+Bảo+—+gbao86;📱+Flutter+Dev+who+loves+clean+UI;🤖+Making+AI+do+the+hard+work;🌿+Studying+%40+HCMUNRE+since+2021;☕+Coffee+→+Code+→+Ship+→+Repeat;⚡+Open+to+collab+%26+internship!;🌙+Debug+at+1AM%2C+ship+at+dawn;🔥+Turn+coffee+into+Flutter+widgets;🧠+AI+is+my+co-pilot%2C+not+my+boss)](https://git.io/typing-svg)
 
 <br/>
 

@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&section=header&text=TRỊNH%20GIA%20BẢO&fontSize=58&fontColor=gradient&fontAlignY=50&desc=〔%20Full-Stack%20Dev%20·%20Flutter%20·%20AI%20〕&descAlignY=70&descSize=20&animation=twinkling&fontColor=00E5FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:6A0DAD,75:C2185B,100:00E5FF&height=260&section=header&text=TRỊNH%20GIA%20BẢO&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=〔%20Full-Stack%20Dev%20·%20Flutter%20·%20AI%20〕&descAlignY=58&descSize=20&animation=twinkling&stroke=00E5FF&strokeWidth=1.5" />
 
 </div>
 

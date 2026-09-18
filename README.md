@@ -112,23 +112,13 @@ I build full-stack web apps, cross-platform mobile apps, and products that integ
 ---
 
 <div align="center">
-
-  # 🐍 <i>Activity Heatmap & Snake</i>
-
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,10&height=70&section=header" width="100%"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake.svg">
+      <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    </picture>
   </p>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-
-  <br/>
-  
-  <sub>✨ Auto-generated every 12 hours via GitHub Actions • Powered by <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-
 </div>
 
 ---

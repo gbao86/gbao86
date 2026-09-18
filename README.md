@@ -142,7 +142,6 @@ Flutter mobile app that classifies waste using on-device and cloud AI.
 100% client-side toolbox (JSON formatter, Base64, JWT decoder, regex tester, and more) — no servers, no sign-ups, no ads.
 - Pure **HTML/CSS/JavaScript**, zero dependencies, works fully offline
 - Command palette (Ctrl+K) for instant fuzzy-search across all tools
-- [Web DevTools-Hub](https://dev-tools-hub-tan.vercel.app/)
 
 <div align="center">
 

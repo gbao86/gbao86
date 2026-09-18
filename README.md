@@ -1,86 +1,53 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:6A0DAD,75:C2185B,100:00E5FF&height=260&section=header&text=TRỊNH%20GIA%20BẢO&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=〔%20Full-Stack%20Dev%20·%20Flutter%20·%20AI%20〕&descAlignY=58&descSize=20&animation=twinkling&stroke=00E5FF&strokeWidth=1.5" />
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:6A0DAD,75:C2185B,100:00E5FF&height=220&section=header&text=TR%E1%BB%8ANH%20GIA%20B%E1%BA%A2O&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Flutter%20%C2%B7%20AI%2FBig%20Data&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- ==================== TYPING ==================== -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=🚀+Hey%2C+I'm+Gia+Bảo+—+gbao86;📱+Flutter+Dev+who+loves+clean+UI;🤖+Making+AI+do+the+hard+work;🌿+Studying+%40+HCMUNRE+since+2021;☕+Coffee+→+Code+→+Ship+→+Repeat;⚡+Open+to+collab+%26+internship!;🌙+Debug+at+1AM%2C+ship+at+dawn;🔥+Turn+coffee+into+Flutter+widgets;🧠+AI+is+my+co-pilot%2C+not+my+boss)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%E2%80%94+gbao86;Next.js+%2B+FastAPI+%2B+Flutter;Building+AI-powered+products;Studying+IT+at+HCMUNRE)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- BADGES ROW 1 -->
-[![](https://komarev.com/ghpvc/?username=gbao86&color=00D9FF&style=flat-square&label=👁️+Profile+Views)](https://github.com/gbao86)
-![](https://img.shields.io/github/followers/gbao86?style=flat-square&color=7B2FFF&label=🤝+Followers)
-![](https://img.shields.io/badge/Focus-Flutter%20%2B%20AI-FF006E?style=flat-square)
-![](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square)
-![](https://img.shields.io/badge/Location-HCM%20City%20🇻🇳-orange?style=flat-square)
-![](https://img.shields.io/badge/Timezone-UTC%2B7%20🕐-00D9FF?style=flat-square)
-![](https://img.shields.io/badge/Awake-9AM%20→%203AM-7B2FFF?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=gbao86&color=00D9FF&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/gbao86?style=flat-square&color=7B2FFF&label=Followers)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20VN-orange?style=flat-square)
 
-<br/><br/>
+<br/>
 
-<!-- SOCIAL -->
-<a href="https://facebook.com/BaOU.me"><img height="32" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>&nbsp;
-<a href="https://instagram.com/amias_40"><img height="32" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp;
-<a href="https://tiktok.com/@banhtetchammuoi"><img height="32" src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a>&nbsp;
-<a href="https://youtube.com/@gbao86"><img height="32" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>&nbsp;
-<a href="mailto:tiktokthu10@gmail.com"><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<!-- ==================== SPOTIFY ==================== -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ugted23ld37n576ic6hxjaopoq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=00D9FF&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ugted23ld37n576ic6hxjaopoq&redirect=true)
+<a href="mailto:tiktokthu10@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://facebook.com/BaOU.me"><img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/gbao86"><img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-<!-- ==================== DIVIDER ==================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- ==================== ABOUT ==================== -->
+## 👋 About Me
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;`$ whoami`
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-```js
-const gbao86 = {
-  name     : "Trịnh Gia Bảo",
-  alias    : "gbao86",
-  role     : "Full-Stack Dev🚀",
-  uni      : "HCMUNRE — IT",
-  year     : "2021 → Present",
-  location : "Ho Chi Minh City 🇻🇳",
-  stack    : ["Flutter", "Next.js", "FastAPI", "TF"],
-  hobbies  : ["Coding 💻", "Gaming 🎮", "Coffee ☕"],
-  goal     : "Ship products that matter ⚡",
-  funFact  : "I debug faster after midnight 🌙",
-  status   : "🟢 Available for opportunities",
-};
+```yaml
+name:     Trịnh Gia Bảo (gbao86)
+role:     Full-Stack Developer
+study:    B.S. Information Technology — Environmental Informatics, HCMUNRE
+graduate: ~2026
+stack:    Next.js · FastAPI · Flutter · TensorFlow
+location: Ho Chi Minh City, Vietnam
+status:   Open to internships & collaboration
 ```
 
-<br clear="right"/>
+I build full-stack web apps, cross-platform mobile apps, and products that integrate AI/ML into practical workflows — from AI-assisted waste classification to hardware inventory systems.
 
-<!-- ==================== DIVIDER ==================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- ==================== SKILLS ==================== -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Tech Arsenal
-
-<div align="center">
+## 🧰 Tech Stack
 
 <table>
 <tr>
-<td align="center" width="200"><b>📱 Mobile & UI</b></td>
-<td align="center" width="200"><b>🧠 AI & Backend</b></td>
-<td align="center" width="200"><b>🗄️ Data & Cloud</b></td>
-<td align="center" width="200"><b>🛠️ DevOps & Tools</b></td>
+<td align="center" width="200"><b>Mobile & Frontend</b></td>
+<td align="center" width="200"><b>Backend & AI</b></td>
+<td align="center" width="200"><b>Data & Cloud</b></td>
+<td align="center" width="200"><b>Tools</b></td>
 </tr>
 <tr>
 <td align="center">
@@ -88,80 +55,96 @@ const gbao86 = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)<br/>
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)<br/>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)<br/>
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)<br/>
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)<br/>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)<br/>
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
 <td align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)<br/>
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)<br/>
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)<br/>
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 </td>
 <td align="center">
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)<br/>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)<br/>
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)<br/>
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td>
 <td align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br/>
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)<br/>
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)<br/>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)<br/>
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)<br/>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-</div>
+**Proficiency breakdown** *(honest tiers, not made-up percentages):*
 
-<!-- ==================== EXPERIENCE TAGS ==================== -->
+| Tier | Stack |
+|---|---|
+| 🔨 Daily driver | Flutter · Dart · Python · Git · Firebase |
+| 🛠️ Used in projects | FastAPI · Next.js · TensorFlow · MongoDB · Docker |
+| 📚 Currently learning | Supabase · GCP · Redis · Kotlin |
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;What I Actually Work With
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-🔨 **Dùng hàng ngày**
-
-![Flutter](https://img.shields.io/badge/Flutter-daily-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-daily-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-daily-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-daily-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-daily-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-🛠️ **Dùng trong dự án**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-projects-005571?style=for-the-badge&logo=fastapi)
-![Next.js](https://img.shields.io/badge/Next.js-projects-000?style=for-the-badge&logo=next.js)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-projects-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-projects-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-projects-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-📚 **Đang học / Khám phá**
-
-![Supabase](https://img.shields.io/badge/Supabase-learning-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-learning-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-learning-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-learning-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
-<!-- ==================== DIVIDER ==================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<!-- ==================== STATS ==================== -->
+## 🚀 Featured Projects
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"/> &nbsp;GitHub Intelligence
+### [CHIMS — Computer Hardware Inventory & Management System](https://github.com/gbao86/chims)
+Full-stack system for tracking and managing computer hardware inventory.
+- Built with **Next.js 15**, **FastAPI**, and **MongoDB**
+- System design documented with Mermaid.js diagrams (ERD, WBS, class diagrams)
+- Deployed on Vercel (frontend) and Render (backend)
+
+### [EcoSort by Bao — AI Waste Classification App](https://github.com/gbao86/AI_Garbage_Classification_Application)
+Flutter mobile app that classifies waste using on-device and cloud AI.
+- Stack: **Flutter**, **TFLite**, **Gemini API**, **Supabase**
+- Includes a full waste-sorting reference screen covering Vietnam's 4-category waste law, bin color standards, and international recycling codes
+
+### Sub Lazy — Subscription Tracker with Financial Forecasting
+Android app for tracking recurring subscriptions and forecasting spend.
+- Built with **Kotlin** and **Jetpack Compose**
+- Custom billing-cycle and runway-forecasting logic
+
+<div align="center">
+
+<a href="https://github.com/gbao86/AI_Garbage_Classification_Application">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=AI_Garbage_Classification_Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
+</a>
+<a href="https://github.com/gbao86/chims">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=chims&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -170,150 +153,38 @@ const gbao86 = {
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=gbao86&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FFF&fire=FF006E&currStreakLabel=00D9FF&border_radius=10" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=gbao86&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FFF&fire=FF006E&border_radius=10" />
 
 </div>
 
-<!-- ==================== 3D CONTRIBUTION ==================== -->
+---
 
-## 🌐 3D Contribution Wall
+## 🎓 Education & Certifications
 
-<div align="center">
+**Education**
+HCMUNRE — B.S. Information Technology (Environmental Informatics) · 2021 – Present
 
-<a href="https://github.com/gbao86">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbao86&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=7B2FFF&point=FF006E&area=true&area_color=7B2FFF&hide_border=true&radius=8" width="95%"/>
-</a>
+**HackerRank Certifications**
 
-</div>
+| Certificate | Level | Link |
+|---|---|---|
+| Software Engineer | — | [View](https://www.hackerrank.com/certificates/8b9ab6c75518) |
+| Frontend Developer (React) | — | [View](https://www.hackerrank.com/certificates/1ce9bf99058f) |
+| Problem Solving | Intermediate | [View](https://www.hackerrank.com/certificates/e3cb19c182cc) |
+| SQL | Advanced | [View](https://www.hackerrank.com/certificates/fc81610f3e8c) |
+| REST API | Intermediate | [View](https://www.hackerrank.com/certificates/77271beebf89) |
+| Java | Basic | [View](https://www.hackerrank.com/certificates/6b16570db7c7) |
+| Python | Basic | [View](https://www.hackerrank.com/certificates/8cfb9fe0851b) |
+| C# | Basic | [View](https://www.hackerrank.com/certificates/467364d6bf0a) |
 
-<!-- ==================== SNAKE ==================== -->
-
-## 🐍 Eating My Contributions...
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake.svg"/>
-  <img alt="🐍 snake animation" src="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<!-- ==================== DIVIDER ==================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ==================== PROJECTS ==================== -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;Featured Projects
+---
 
 <div align="center">
-
-<a href="https://github.com/gbao86/AI_Garbage_Classification_Application">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=AI_Garbage_Classification_Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/gbao86/chims">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=chims&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
-</a>
-
-</div>
-
-<!-- ==================== DIVIDER ==================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ==================== CREDENTIALS ==================== -->
-
-## 🎓 Credentials & Certs
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"/><br/>
-<b>🏫 Education</b><br/><br/>
-HCMUNRE<br/>
-Công Nghệ Thông Tin<br/>
-<code>2021 → Now</code>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"/><br/>
-<b>🏅 HackerRank</b><br/><br/>
-✅ SQL <a href="https://www.hackerrank.com/certificates/fc81610f3e8c"><b>Advanced</b></a><br/>
-✅ Problem Solving <a href="https://www.hackerrank.com/certificates/e3cb19c182cc"><b>Inter.</b></a><br/>
-✅ <a href="https://www.hackerrank.com/certificates/8cfb9fe0851b">Python</a> · <a href="https://www.hackerrank.com/certificates/6b16570db7c7">Java</a><br/>
-✅ Rest API <a href="https://www.hackerrank.com/certificates/77271beebf89"><b>Inter.</b></a><br/>
-✅ <a href="https://www.hackerrank.com/certificates/8b9ab6c75518">Software Engineer</a><br/>
-✅ <a href="https://www.hackerrank.com/certificates/1ce9bf99058f">Frontend Developer <b>React</b></a>
-</td>
-<td align="center">
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"/><br/>
-<b>🌐 Language</b><br/><br/>
-🇬🇧 English<br/>
-<b>TOEIC 545</b><br/>
-Technical Proficiency
-</td>
-</tr>
-</table>
-</div>
-
-<!-- ==================== MEME ==================== -->
-
-## 😂 Dev Life in a Meme
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" title="Me shipping to prod on Friday" />
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="280" title="When my code works first try" />
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" title="Me at 3AM debugging" />
-&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" title="It works on my machine 🤷" />
-
-</div>
-
-<!-- ==================== QUOTE ==================== -->
-
-## ✍️ Today's Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<!-- ==================== JOKE ==================== -->
-
-## 🤣 Random Dev Joke
-
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
-
-</div>
-
-<!-- ==================== FOOTER ==================== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-<br/>
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70" />
 
 ### `> console.log("Thanks for visiting! 👾")`
 
-```
-⚡  "Biến ý tưởng thành mã nguồn, biến dữ liệu thành hành động."  ⚡
-```
+*Crafted by **gbao86** · Ho Chi Minh City, Vietnam 🇻🇳*
 
-<br/>
-
-*Crafted with 💙 & too much ☕ by **gbao86** · Ho Chi Minh City 🇻🇳*
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:7B2FFF,70:00D9FF,100:0D1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:7B2FFF,70:00D9FF,100:0D1117&height=140&section=footer&animation=twinkling&text=See%20you%20in%20the%20next%20commit%20👋&fontSize=20&fontColor=ffffff&fontAlignY=65" />

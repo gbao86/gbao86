@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate 3D Contribution Scene
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" 
   workflow_dispatch:
   push:
     branches:
@@ -12,25 +12,25 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    name: generate-github-profile-3d-contrib
     steps:
-      - name: Generate contribution snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: gbao86
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#ff007f&color_dots=#ebedf0,#a7f3d0,#34d399,#059669,#047857
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ff2a85&color_dots=#121124,#2b1b54,#6b21a8,#06b6d4,#22d3ee
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          OUTPUT_PATHS: |
+            profile-3d-contrib/profile-green-isometric.svg
+            profile-3d-contrib/profile-green-isometric-dark.svg
+            profile-3d-contrib/profile-night-view.svg
+            profile-3d-contrib/profile-night-green.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated 3D contribution scene"
+          git push

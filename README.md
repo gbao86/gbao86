@@ -10,9 +10,9 @@
   </a>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20INTERNSHIP-00F2FE?style=for-the-badge&logo=codeforces&logoColor=0D1117&labelColor=0D1117" alt="Status" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20WORK-00F2FE?style=for-the-badge&logo=codeforces&logoColor=0D1117&labelColor=0D1117" alt="Status" />
     <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20FULLSTACK-7B2FFF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0D1117" alt="Focus" />
-    <img src="https://img.shields.io/badge/LOCATION-SAI%20GON%2C%20VN-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location" />
+   <img src="https://img.shields.io/badge/LOCATION-CHANH%20PHU%20HOA%20WARD%2C%20HCMC%2C%20VN-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location" />
   </p>
 
   <!-- Connect & Social Badges (Monochrome Sleek Style) -->

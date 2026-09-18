@@ -126,18 +126,22 @@ Flutter mobile app that classifies waste using on-device and cloud AI.
 - Stack: **Flutter**, **TFLite**, **Gemini API**, **Supabase**
 - Includes a full waste-sorting reference screen covering Vietnam's 4-category waste law, bin color standards, and international recycling codes
 
-### Sub Lazy — Subscription Tracker with Financial Forecasting
-Android app for tracking recurring subscriptions and forecasting spend.
-- Built with **Kotlin** and **Jetpack Compose**
-- Custom billing-cycle and runway-forecasting logic
+### [DevTools-Hub — 45 Developer Tools in One Tab](https://dev-tools-hub-tan.vercel.app/)
+100% client-side toolbox (JSON formatter, Base64, JWT decoder, regex tester, and more) — no servers, no sign-ups, no ads.
+- Pure **HTML/CSS/JavaScript**, zero dependencies, works fully offline
+- Command palette (Ctrl+K) for instant fuzzy-search across all tools
+- [Repo: gbao86/DevTools-Hub](https://github.com/gbao86/DevTools-Hub)
 
 <div align="center">
 
-<a href="https://github.com/gbao86/AI_Garbage_Classification_Application">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=AI_Garbage_Classification_Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
-</a>
 <a href="https://github.com/gbao86/chims">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=chims&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
+  <img width="32%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=chims&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
+</a>
+<a href="https://github.com/gbao86/AI_Garbage_Classification_Application">
+  <img width="32%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=AI_Garbage_Classification_Application&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
+</a>
+<a href="https://github.com/gbao86/DevTools-Hub">
+  <img width="32%" src="https://github-readme-stats.shion.dev/api/pin/?username=gbao86&repo=DevTools-Hub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FFF&text_color=c9d1d9&border_radius=10" />
 </a>
 
 </div>

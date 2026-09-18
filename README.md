@@ -112,13 +112,17 @@ I build full-stack web apps, cross-platform mobile apps, and products that integ
 ---
 
 <div align="center">
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake.svg">
-      <img alt="Contribution Snake" src="https://raw.githubusercontent.com/gbao86/gbao86/output/github-contribution-grid-snake-dark.svg" width="100%" />
-    </picture>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/main/profile-3d-contrib/profile-night-view.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gbao86/gbao86/main/profile-3d-contrib/profile-green-isometric.svg">
+          <img alt="3D Contributions" src="https://raw.githubusercontent.com/gbao86/gbao86/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

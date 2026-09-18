@@ -6,7 +6,7 @@
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/gbao86">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Building+impactful+AI+%26+Mobile+applications;Full-Stack+Architect+%7C+Next.js+%C2%B7+FastAPI+%C2%B7+Flutter;Undergrad+%40+HCMUNRE+%E2%80%94+Open+to+opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Building+impactful+AI+%26+Mobile+applications;Full-Stack+Engineer+%7C+Next.js+%C2%B7+FastAPI+%C2%B7+Flutter;Undergrad+%40+HCMUNRE+%E2%80%94+Open+to+opportunities" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -40,9 +40,9 @@
 
 ```yaml
 name:     Trịnh Gia Bảo (gbao86)
-role:     Full-Stack Developer
-study:    B.S. Information Technology — Environmental Informatics, HCMUNRE
-graduate: ~2026
+role:     Full-Stack Engineer
+study:    Eng. Information Technology — Environmental Informatics, HCMUNRE
+graduate: ~2027
 stack:    Next.js · FastAPI · Flutter · TensorFlow
 location: Ho Chi Minh City, Vietnam
 status:   Open to internships & collaboration
@@ -177,7 +177,7 @@ Flutter mobile app that classifies waste using on-device and cloud AI.
 ## 🎓 Education & Certifications
 
 **Education**
-HCMUNRE — B.S. Information Technology (Environmental Informatics) · 2021 – Present
+HCMUNRE — Eng. Information Technology (Environmental Informatics) 
 
 **HackerRank Certifications**
 

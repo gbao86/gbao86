@@ -45,7 +45,7 @@ study:    Eng. Information Technology — Environmental Informatics, HCMUNRE
 graduate: ~2027
 stack:    Next.js · FastAPI · Flutter · TensorFlow
 location: Ho Chi Minh City, Vietnam
-status:   Open to internships & collaboration
+status:   Open to work & collaboration
 ```
 
 I build full-stack web apps, cross-platform mobile apps, and products that integrate AI/ML into practical workflows — from AI-assisted waste classification to hardware inventory systems.

@@ -1,27 +1,39 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,25:302B63,50:6A0DAD,75:C2185B,100:00E5FF&height=220&section=header&text=TR%E1%BB%8ANH%20GIA%20B%E1%BA%A2O&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Flutter%20%C2%B7%20AI%2FBig%20Data&descAlignY=58&descSize=18&animation=fadeIn" />
+  <!-- Minimalist Cyber Wave Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,40:1B1B3A,70:3F2B96,100:00F2FE&height=240&section=header&text=TRINH%20GIA%20BAO&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%7C%20Flutter%20%C2%B7%20AI%20%C2%B7%20Distributed%20Systems&descAlignY=58&descSize=17&descColor=00F2FE&animation=fadeIn" alt="Header Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%E2%80%94+gbao86;Next.js+%2B+FastAPI+%2B+Flutter;Building+AI-powered+products;Studying+IT+at+HCMUNRE)](https://git.io/typing-svg)
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://github.com/gbao86">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1200&color=00F2FE&center=true&vCenter=true&multiline=false&width=620&height=45&lines=Building+impactful+AI+%26+Mobile+applications;Full-Stack+Architect+%7C+Next.js+%C2%B7+FastAPI+%C2%B7+Flutter;Undergrad+%40+HCMUNRE+%E2%80%94+Open+to+opportunities" alt="Typing SVG" />
+  </a>
 
-<br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20INTERNSHIP-00F2FE?style=for-the-badge&logo=codeforces&logoColor=0D1117&labelColor=0D1117" alt="Status" />
+    <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20FULLSTACK-7B2FFF?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0D1117" alt="Focus" />
+    <img src="https://img.shields.io/badge/LOCATION-SAI%20GON%2C%20VN-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location" />
+  </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gbao86&color=00D9FF&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/gbao86?style=flat-square&color=7B2FFF&label=Followers)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20VN-orange?style=flat-square)
-
-<br/>
-
-<a href="mailto:tiktokthu10@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://facebook.com/BaOU.me"><img height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/gbao86"><img height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Connect & Social Badges (Monochrome Sleek Style) -->
+  <p align="center">
+    <a href="mailto:tiktokthu10@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161B22" alt="Gmail"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/gbao86">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=161B22" alt="GitHub"/>
+    </a>
+    &nbsp;
+    <a href="https://facebook.com/BaOU.me">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=161B22" alt="Facebook"/>
+    </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=gbao86&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </p>
 
 </div>
-
 <br/>
-
 ---
 
 ## 👋 About Me
@@ -130,7 +142,7 @@ Flutter mobile app that classifies waste using on-device and cloud AI.
 100% client-side toolbox (JSON formatter, Base64, JWT decoder, regex tester, and more) — no servers, no sign-ups, no ads.
 - Pure **HTML/CSS/JavaScript**, zero dependencies, works fully offline
 - Command palette (Ctrl+K) for instant fuzzy-search across all tools
-- [Repo: gbao86/DevTools-Hub](https://github.com/gbao86/DevTools-Hub)
+- [Web DevTools-Hub](https://dev-tools-hub-tan.vercel.app/)
 
 <div align="center">
 
@@ -183,12 +195,29 @@ HCMUNRE — B.S. Information Technology (Environmental Informatics) · 2021 – 
 
 ---
 
+<!-- ==================== FOOTER ==================== -->
+<br/>
 <div align="center">
 
-### `> console.log("Thanks for visiting! 👾")`
+  <!-- Interactive Terminal Quotes / Dynamic Card -->
+  <a href="https://github.com/gbao86">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
 
-*Crafted by **gbao86** · Ho Chi Minh City, Vietnam 🇻🇳*
+  <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,30:7B2FFF,70:00D9FF,100:0D1117&height=120&section=footer&animation=fadeIn" />
+  <!-- Interactive Quick Links -->
+  <p align="center">
+    <a href="#-about-me"><b>Back to Top ⮝</b></a> •
+    <a href="https://github.com/gbao86?tab=repositories"><b>Explore Repositories</b></a> •
+    <a href="mailto:tiktokthu10@gmail.com"><b>Get in Touch</b></a>
+  </p>
+
+  <p align="center">
+    <sub>Crafted with continuous learning & passion by <b>Trịnh Gia Bảo (@gbao86)</b><br/>© 2026 • All systems operational.</sub>
+  </p>
+
+  <!-- Sleek Dark Wave Closing Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,35:3F2B96,70:1B1B3A,100:090D16&height=120&section=footer&animation=fadeIn" alt="Footer Banner" />
 
 </div>
